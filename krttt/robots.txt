@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /authent
+Disallow: /Get_Started
+Disallow: /FUNC
+Disallow: /confirm
